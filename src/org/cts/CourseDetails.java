@@ -7,5 +7,9 @@ public class CourseDetails {
 		System.out.println("Course name is java");
 	}
 	
-	
+	public static void main(String[] args) {
+		
+		CourseDetails c=new CourseDetails();
+		c.courseName();
+	}
 }
