@@ -7,5 +7,11 @@ public class CourseDetails {
 		System.out.println("Course name is java");
 	}
 	
+	public void studentName() {
+		System.out.println("Student name is vijay");
+	}
 	
+	public void rollNo() {
+		System.out.println("Student roll no is 2541");
+	}
 }
